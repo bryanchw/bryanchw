@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-My name is Bryan and I'm currently based in Hong Kong, working as a Data Scientist. By combining Data Science, AI, and Psychology, I hope to help businesses and individuals better understand why people make the decisions they make and how to optimize behaviors to achieve better outcomes.
+I'm a Data Scientist based in Hong Kong. By combining Data Science, AI, and Psychology, I hope to help businesses and individuals better understand why people make the decisions they make and how to optimize behaviors to achieve better outcomes.
 
-- 🔭 I’m currently working on English and Traditional Chinese NLP related projects
+- 🔭 I’m currently working on English and Traditional Chinese NLP projects
 - 📫 Reach me via bryanchw@umich.edu
 
 <!--
