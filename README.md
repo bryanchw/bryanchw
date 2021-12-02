@@ -2,7 +2,7 @@
 
 - 🌱 Data Scientist based in Hong Kong
 - 🔭 Currently working on English and Traditional Chinese NLP projects
-- 💬 help businesses and individuals better understand why people make the decisions they make and how to optimize behaviors to achieve better outcomes
+- 💬 Aim to help businesses and individuals better understand why people make the decisions they make and how to optimize behaviors to achieve better outcomes
 - 📫 Reach me at bryanchw@umich.edu
 
 <!--
