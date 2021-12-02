@@ -1,6 +1,9 @@
-### Hi there 👋 My name is Bryan and I'm currently based in Hong Kong, working as a Data Scientist. By combining Data Science, AI, and Psychology, I hope to help businesses and individuals better understand why people make the decisions they make and how to optimize behaviors to achieve better outcomes.
+### Hi there 👋 
 
-📫 Reach me via bryanchw@umich.edu
+My name is Bryan and I'm currently based in Hong Kong, working as a Data Scientist. By combining Data Science, AI, and Psychology, I hope to help businesses and individuals better understand why people make the decisions they make and how to optimize behaviors to achieve better outcomes.
+
+- 🔭 I’m currently working on English and Traditional Chinese NLP related projects
+- 📫 Reach me via bryanchw@umich.edu
 
 <!--
 **bryanchw/bryanchw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
