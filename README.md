@@ -2,7 +2,7 @@
 
 - 🔭 Currently working on English and Traditional Chinese NLP projects
 - 🌱 By combining Data Science, AI, and Psychology, I hope to help businesses and individuals better understand why people make the decisions they make and how to optimize behaviors to achieve better outcomes
-- 📫 Reach me via bryanchw@umich.edu
+- 📫 Reach me at bryanchw@umich.edu
 
 <!--
 **bryanchw/bryanchw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
