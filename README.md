@@ -3,7 +3,6 @@
 - 🌱 I'm a Data Scientist based in Hong Kong
 - 🔭 Currently working on English and Traditional Chinese NLP projects
 - 📫 Reach me at bryanchw@umich.edu
-
 <!--
 **bryanchw/bryanchw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
