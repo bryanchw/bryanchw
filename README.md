@@ -1,7 +1,8 @@
-### Hi there 👋 , I'm a Data Scientist based in Hong Kong
+### Hi there 👋 
 
+- 🌱 Data Scientist based in Hong Kong
 - 🔭 Currently working on English and Traditional Chinese NLP projects
-- 🌱 By combining Data Science, AI, and Psychology, I hope to help businesses and individuals better understand why people make the decisions they make and how to optimize behaviors to achieve better outcomes
+- 💬 help businesses and individuals better understand why people make the decisions they make and how to optimize behaviors to achieve better outcomes
 - 📫 Reach me at bryanchw@umich.edu
 
 <!--
